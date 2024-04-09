@@ -1,0 +1,46 @@
+.services{
+    padding: 100px 0;
+    background: #efefef; 
+}
+.services-box img{
+    width: 100%;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 1s;
+}
+.services-box img:hover{
+    transform: scale(1.1);
+}
+
+.services-box h4{
+    display: block;
+    color: white;
+    font-size: 20px;
+    text-shadow:-2px 2px 2px #000 ;
+    font-weight: 600;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+} 
+.services-box{
+    position: relative;
+    margin-bottom: 30px;
+}
+@media (max-width: 400px) {
+    .services-box h4 {
+      font-size: 16px; 
+    }
+  }
+  
+  
+  @media (min-width: 1200px) {
+    .services {
+      padding: 150px 0; 
+    }
+  
+    .services-box h4 {
+      font-size: 24px; 
+    }
+  }
+

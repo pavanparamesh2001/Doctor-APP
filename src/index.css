@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Buda:wght@300&family=Caveat&family=Dancing+Script&family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Hind:wght@300;400;500;600;700&family=Indie+Flower&family=Kanit&family=Lora&family=Nova+Square&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Ojuju:wght@200..800&family=Open+Sans:wght@400;600&family=Oswald&family=Pacifico&family=Permanent+Marker&family=Playfair+Display:ital@0;1&family=Poppins&family=Protest+Riot&family=Raleway:wght@200&family=Rethink+Sans:ital@0;1&family=Rubik+Doodle+Shadow&family=Rubik+Doodle+Triangles&family=Saira+Extra+Condensed:wght@100&family=Sevillana&family=Tinos&display=swap');
+
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: "Nunito", sans-serif;
+}
+
